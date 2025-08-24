@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s-mostafaahmadi
+- 👋 Hi, I’m Mostafa Ahmadi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Deutsch language
 - 💞️ I’m looking to collaborate on AI projects
