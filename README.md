@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Deutsch language
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me : tah3in@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 s-mostafaahmadi/s-mostafaahmadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
