@@ -2,21 +2,7 @@
 
 **Entwickler von Lernprodukten und praktischen Werkzeugen** — von Sprachlernplattformen bis zu Embedded- und Bildverarbeitungsprojekten.
 
----
 
-## Hauptprojekt
-
-### Amookht — Deutschlernplattform
-
-Deutsch lernen für **TestDaF** und **ÖSD**: intelligenter Tagesplan mit sechs Übungskategorien,
-KI-gestützte Korrektur der Übungen, Fehlerheft mit Spaced Repetition und Live-Synchronisierung
-zwischen Web, Windows und Android.
-
-`FastAPI` · `PostgreSQL` · `Redis` · `Electron` · `JavaScript`
-
-[Repository und Dokumentation](https://github.com/s-mostafaahmadi/amookht) · [Live-Version](https://learn.tah3in.com)
-
----
 
 ## Weitere Projekte
 
